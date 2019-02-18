@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">HuffmanTest</string>
+    <!--<string name="tangram_id">0003010800000100010000010000000001</string>-->
+    <!--<string name="tangram_id">0003010800000100020000010000000001</string>-->
+    <!--<string name="tangram_id">0001010A00000100010000010000000001</string>-->
+    <!--<string name="tangram_id">0003010200000100010000010000000001</string>-->
+    <!--<string name="tangram_id">0003010200000100040000010000000001</string>-->
+    <!--<string name="tangram_id">0001010500000100050000010000000001</string>-->
+    <!--<string name="tangram_id">0001010600000100020000010000000001</string>-->
+    <!--<string name="tangram_id">0001010600000100030000010000000001</string>-->
+    <!--<string name="tangram_id">0001010600000100030000020000000001</string>-->
+    <!--<string name="tangram_id">0003010A00000200010000010000000001</string>-->
+    <!--<string name="tangram_id">0003010A00000200010000020000000001</string>-->
+    <!--<string name="tangram_id">0003010A00000200010000030000000001</string>-->
+    <!--<string name="tangram_id">0005010700000100010000010000000001</string>-->
+    <!--<string name="tangram_id">0005010700000100020000010000000001</string>-->
+    <!--<string name="tangram_id">0005010700000100030000010000000001</string>-->
+    <!--<string name="tangram_id">0003010900000100010000010000000001</string>-->
+    <!--<string name="tangram_id">0001010D00000100010000010000000001</string>-->
+    <!--<string name="tangram_id">0001010D00000100020000010000000001</string>-->
+    <!--<string name="tangram_id">0003010C00000100010000010000000001</string>-->
+    <!--<string name="tangram_id">0003010B000001000300009A0000000001</string>-->
+    <!--<string name="tangram_id">0003010B000001000300009A0000000002</string>-->
+    <!--<string name="tangram_id">0003010B000001000300009A0000000003</string>-->
+    <!--<string name="tangram_id">0003010B000001000300009F0000000001</string>-->
+    <!--<string name="tangram_id">0003010B000001000300009F0000000002</string>-->
+    <!--<string name="tangram_id">0003010B000001000300009F0000000003</string>-->
+    <!--<string name="tangram_id">0003010B000001000100008A0000000001</string>-->
+    <!--<string name="tangram_id">0003010B00000100010000820000000001</string>-->
+    <!--<string name="tangram_id">0003010B00000100010000820000000002</string>-->
+    <!--<string name="tangram_id">0003010B00000100010000820000000003</string>-->
+    <!--<string name="tangram_id">0003010B00000100080000010000000001</string>-->
+
+    <!--<string name="tangram_id">0003010B000001000100008A0000000002</string>-->
+    <!--<string name="tangram_id">0003010B00000100070000010000000001</string>-->
+    <!--<string name="tangram_id">0005011200000100010000010000000001</string>-->
+    <!--<string name="tangram_id">0003011000000100010000010000000001</string>-->
+    <!--<string name="tangram_id">0003011000000100010000010000000002</string>-->
+    <!--<string name="tangram_id">0003011000000100010000010000000003</string>-->
+    <!--<string name="tangram_id">0003011000000100010000010000000004</string>-->
+    <!--<string name="tangram_id">0003011000000100010000010000000005</string>-->
+    <!--<string name="tangram_id">0003011000000100010000010000000006</string>-->
+    <!--<string name="tangram_id">0003011000000100010000010000000007</string>-->
+    <!--<string name="tangram_id">0003011000000100010000010000000008</string>-->
+    <!--<string name="tangram_id">0003011000000100010000010000000009</string>-->
+    <string name="tangram_id">000301100000010001000001000000000A</string>
+
+
+</resources>
